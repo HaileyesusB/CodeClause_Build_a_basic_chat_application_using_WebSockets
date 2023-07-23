@@ -1,0 +1,40 @@
+*~
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+
+# Visual Studio Code
+.vscode
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2022
+/SFC.Insurance.Collateral.Infrastructure/obj/Debug/net6.0/SFC.Insurance.Collateral.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+
+.vs/
+/.vs
+/CodeClause_WebSocket/CodeClause.WebSocket/bin
+/CodeClause_WebSocket/CodeClause.WebSocket/obj
+/CodeClause_WebSocket/CodeClause_WebSocket/bin
+/CodeClause_WebSocket/CodeClause_WebSocket/obj
